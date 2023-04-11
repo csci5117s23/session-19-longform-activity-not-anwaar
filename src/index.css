@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+div.card {
+  border: 1px solid black;
+  width: fit-content;
+  height: auto;
+}
+
+form {
+  border: 2px solid red;
+}
